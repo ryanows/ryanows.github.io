@@ -1,0 +1,39 @@
+body{
+	font-family: arial;
+}
+
+.wrap{
+	width: 100%;/*atau bisa juga width: 1000px;*/
+	margin: 0 auto;
+}
+
+.header{
+	width: auto;
+	background: #0460f4;
+	padding: 20px; /*Padding ini untuk menambahkan space diluar konten*/
+	color: #fff;
+}
+
+.main{
+	width: 100%;
+	background: #00660f;
+}
+
+hr{
+	height: 10px;
+	border: 3;
+	box-shadow: 0 10px 10px -10px #8c8c8c inset; 
+}
+
+.text{
+	color: blue;
+	font-family: times new roman;
+	font-size: 20px;
+}
+
+.footer{
+	width: auto;
+	padding: 5px 10px;
+	background: #333;
+	color: #fff;
+}
